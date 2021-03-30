@@ -38,5 +38,5 @@ The school board has noticed an evidence of academic dishonesty from the student
 
 <img src=https://github.com/reinalim/School_District_Analysis/blob/main/PerSchoolSummary.png>
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?How does replacing the ninth-grade scores affect the following: Math and reading scores by grade, Scores by school spending, Scores by school size, Scores by school type
-- 
+## Summary
+Below are some changes noticed in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. % Passing Reading is down by 1% for Charter schools type. Average grading score for math and reading can't not be evaluated for Grade 9's students at the Thomas High School. Overall Passing %age for Thomas High School was slighly donw by .3%
